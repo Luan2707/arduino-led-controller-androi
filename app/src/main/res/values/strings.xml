@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="registro">Registro</string>
+    <string name="boton_principal">#Registro</string>
+</resources>

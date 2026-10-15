@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39678355323",
+    "project_id": "control-arduino-led-f60f1",
+    "storage_bucket": "control-arduino-led-f60f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39678355323:android:672b5668525cdd057b3fde",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrgzkMVTYBeEMLFeXK3LRVVe7yiWxYXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
